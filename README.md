@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanjvaghela" alt="kishanjvaghela" /> </p>
 
-- 🌱 I’m currently learning **C#, .net and AI**
+- 🌱 I’m currently learning **C#, CorDapp and AI**,
 
 - 👯 I’m looking to collaborate on [react-native-cardview](https://github.com/Kishanjvaghela/react-native-cardview)
 
